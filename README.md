@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! I'm Matheus Camargo👋 </h1>
-<h3 align="center">🚀 Full Stack Developer | No coffee, no way ♥ </h3>
+<h3 align="center">🚀 Full Stack Developer 🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://media.tenor.com/6Smdek4g_mcAAAAd/bebendo-café-tomando-café.gif" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://camo.githubusercontent.com/21f12821cde6a7d6631650e6f44586696972e360ad547710268959e5c9429e28/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d4336655375433379797043552f67697068792e676966" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🚀 &nbsp; Full Stack developer by Estacio and Udemy
-  - 📖 &nbsp; Analysis and Systems Development Student at ESTACIO 📖
+  - 🚀 &nbsp; Exploring new technologies and developing software solutions. 
+  - 📖 &nbsp; I’m currently working on Full Stack Development projects.
   - ⭐ &nbsp; If I don't know something, I'll go late to find out
   - ☕ &nbsp; No coffee, no way
 

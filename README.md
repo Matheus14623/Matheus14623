@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Matheus Camargo👋 </h1>
 <h3 align="center">🚀 Full Stack Developer 🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://camo.githubusercontent.com/21f12821cde6a7d6631650e6f44586696972e360ad547710268959e5c9429e28/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d4336655375433379797043552f67697068792e676966" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://makeupandbeautyblog.com/wp-content/uploads/2024/07/rosie-matrix.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 

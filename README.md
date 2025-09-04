@@ -20,7 +20,5 @@
   <p>
 
 
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus14623&bg_color=000000&&color=ffffff&line=008000&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
+
 </div> 

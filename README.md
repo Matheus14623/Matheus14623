@@ -5,9 +5,9 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🚀 &nbsp; Exploring new technologies and developing software solutions. 
-  - 📖 &nbsp; I’m currently working on Full Stack Development projects.
-  - ⭐ &nbsp; If I don't know something, I'll go late to find out
+  - 🚀 &nbsp; Desenvolvedor Full Stack. Aplico a mesma lógica a sistemas complexos, seja no código ou na cosmologia.
+  - 📖 &nbsp; Focado em decompor problemas de larga escala, de arquitetura de software à Teoria M.
+  - ⭐ &nbsp; Buscando ativamente desafios técnicos que exigem soluções não-triviais.
   - ☕ &nbsp; No coffee, no way
 
 </div> 

@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🚀 &nbsp; Aplico a mesma lógica a sistemas complexos, seja no código ou na cosmologia.
-  - 📖 &nbsp; Focado em decompor problemas de larga escala, de arquitetura de software à Teoria M.
+  - 📖 &nbsp; Focado em decompor problemas de larga escala, de arquitetura de software.
   - ⭐ &nbsp; Buscando ativamente desafios técnicos que exigem soluções não-triviais.
   - ☕ &nbsp; No coffee, no way
 

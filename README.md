@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Matheus Camargo👋 </h1>
 <h3 align="center">🚀 Full Stack Developer 🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://i.gifer.com/2D0v.gif" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sun_Releases_X1_5_Flare_on_August_7%2C_2023_%28SVS14417_-_Aug_7_X1pt5_Flare_171-131_SDO%29.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
